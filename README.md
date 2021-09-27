@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# The banana rotation
+# This person runs with banana as a fuel
 
 Interested in various things
 
