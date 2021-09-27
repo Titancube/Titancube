@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# This person runs with banana as a fuel
+# This person runs with banana as fuel
 
-Interested in various things
+Oh yeah, also interested in various things
 
 ## Know / Mainly use
 
