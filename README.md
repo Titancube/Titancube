@@ -4,7 +4,7 @@ Sadly, I have not much to show you but please enjoy your stay of 100ms.
 
 ## General Skills
 
-### Frontend
+### 🌱 Frontend
 
 - Typescript / Javascript
 - HTML5
@@ -13,17 +13,17 @@ Sadly, I have not much to show you but please enjoy your stay of 100ms.
 - Nuxt
 - TailwindCSS
 
-### Backend
+### 🪨 Backend
 - Node.js
 - Express
 
 ## Salesforce
 
-### Certificates
+### 📜 Certificates
 - Salesforce Certified Administrator
 - Salesforce Certified Platform Developer I
 
-### Skills
+### 💎 Skills
 - APEX
 - Lightning Web Component
 - Aura Component
