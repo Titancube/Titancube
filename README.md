@@ -1,4 +1,4 @@
-# Hi, I have no idea how you ended up here
+# Hi, I have no idea how did you end up here
 
 Sadly, I have not much to show you but please enjoy your stay of 100ms.
 
