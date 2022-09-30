@@ -6,16 +6,26 @@ Sadly, I have not much to show you but please enjoy your stay of 100ms.
 
 ### 🌱 Frontend
 
-- Typescript / Javascript
+- Typescript / Javascript (ES6+ / CoimmonJS)
 - HTML5
 - CSS3
 - Vue
 - Nuxt
+- React
 - TailwindCSS
 
 ### 🪨 Backend
 - Node.js
 - Express
+
+### 🛢️ Database
+- Firebase
+- RDBMS (MySQL, MSSQL, PostgresQL)
+
+### Daily tools
+- VSCode
+- Postman
+- Tableplus
 
 ## Salesforce
 
